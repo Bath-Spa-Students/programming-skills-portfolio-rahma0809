@@ -8,6 +8,10 @@ school=input('enter the school:')
 university=input('enter the university:')
 father=input('enter the name:')
 mother=input('enter the name:')
+print(name)
+print(age)
+print(hobby)
+
 
 
 
