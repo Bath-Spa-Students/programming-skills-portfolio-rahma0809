@@ -15,7 +15,7 @@ else:
     card="not received"
 print('Your card:', card)'''
 
-earning=int(input('Enter your earning'))
+'''earning=int(input('Enter your earning'))
 work_experience= float (input('Enter your work experience'))
 
 if earning>30000:
@@ -24,4 +24,6 @@ if earning>30000:
     else:
         print('sorry your work experience is less than 2 years')
 else:
-    print('your earning is less than 30000')
+    print('your earning is less than 30000')'''
+
+

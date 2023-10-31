@@ -3,10 +3,10 @@
 print (dict)'''
 
 #adding values 
-dict={'Name':'Rahma',
+'''dict={'Name':'Rahma',
       'Age':18,
       'year':'one'}          #key:value pair
-print(dict)
+print(dict)'''
 
 #select a dictionary
 dict={'Name':'Rahma',
@@ -14,4 +14,5 @@ dict={'Name':'Rahma',
      'strength':54}
 print(dict['strength'])
 
+#
 

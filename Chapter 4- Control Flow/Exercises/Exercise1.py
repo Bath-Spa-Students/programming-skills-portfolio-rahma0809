@@ -7,5 +7,5 @@ if alien_color== 'Green':
 alien_color='Yellow'
 if alien_color=='Green':
     print('Congratulations!, You just earned 5 ponts')
-
+    
 
