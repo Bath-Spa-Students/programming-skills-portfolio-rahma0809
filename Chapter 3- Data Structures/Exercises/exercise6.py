@@ -19,4 +19,4 @@ print(f'Hey!',invitation[0],'You are still invited for the dinner party')
 print(f'Hii!',invitation[1],'You are still invited for the dinner party')
 del invitation[0]
 del invitation[0]
-print(invitation)
+print(invitation) 
