@@ -6,6 +6,4 @@ if alien_color== 'Green':
 # Fails the if test
 alien_color='Yellow'
 if alien_color=='Green':
-    print('Congratulations!, You just earned 5 ponts')
-    
-
+    print('Congratulations!, You just earned 5 ponts') 
