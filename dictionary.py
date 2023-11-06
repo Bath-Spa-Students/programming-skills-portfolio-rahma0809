@@ -12,7 +12,8 @@ print(dict)'''
 dict={'Name':'Rahma',
      'class':'Codelab1',
      'strength':54}
-print(dict['strength'])
+print('\n',dict)
+print('\n',dict)
 
 #
 

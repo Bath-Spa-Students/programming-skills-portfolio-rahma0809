@@ -1,4 +1,4 @@
-Age=int(input('Enter your age:'))
+Age=18
 if Age<2:
     print('You are a baby')
 elif Age<4:
