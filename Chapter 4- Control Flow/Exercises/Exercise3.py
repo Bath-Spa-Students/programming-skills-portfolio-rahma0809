@@ -20,4 +20,4 @@ if alien_color=='Green':
 elif alien_color=='Yellow':
     print('Congratulations!, You just earned 10 points')
 else:
-    print('Congratulations!, You just earned 15 points ')
+    print('Congratulations!, You just earned 15 points ') 
