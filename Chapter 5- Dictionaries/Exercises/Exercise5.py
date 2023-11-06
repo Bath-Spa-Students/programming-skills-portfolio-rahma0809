@@ -1,32 +1,9 @@
-#store pets in list
-Pets=[]
-#storing in list
-Pet={'animal':'kitten',
-     'name':'Luna',
-     'ownwe':'James',
-     'colour':'orange',
-     'species':'persian'}
-Pets.append(Pet)
+Pets = [{"kind": "Kitten", "owner": "James"},
+    {"kind": "Dog", "owner": "Liya"},
+    {"kind": "Parrot", "owner": "Susan"},
+    {"kind": "Fish", "owner": "Carl"}]
 
-Pet={'animal':'dog',
-     'name':'muffin',
-     'ownwe':'Stena',
-     'colour':'white and black',
-     'species':'husky'}
-Pets.append(Pet)
-
-Pet={'animal':'fish',
-     'name':'sun',
-     'ownwe':'Aina',
-     'colour':'yellow and silver',
-     'species':'goldfish'}
-Pets.append(Pet)
-\
-#Displaying the onformation about the pet 
-for Pet in Pets:
-    print('\nThings i know about the pet',Pet['animal'],':')
-    
-
-
-
-
+for pet in Pets:
+    print(f"Pet Kind: {pet['kind']}")
+    print(f"Owner's Name: {pet['owner']}")
+    print()  
