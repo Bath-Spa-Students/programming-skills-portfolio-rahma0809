@@ -9,11 +9,14 @@ print (dict)'''
 print(dict)'''
 
 #select a dictionary
-dict={'Name':'Rahma',
+
+
+dict1={'Name':'Rahma',
      'class':'Codelab1',
      'strength':54}
-print('\n',dict)
-print('\n',dict)
-
+dict2={'User':'Sadaf',
+     'room':'dvd',
+     'number':50}
+print(dict1|dict2)
 #
 
