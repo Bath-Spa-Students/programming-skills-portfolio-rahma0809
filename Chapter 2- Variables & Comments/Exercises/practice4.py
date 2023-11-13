@@ -3,4 +3,4 @@ variable x and y. '''
 x=150
 y='Rahma'
 print(type(x))
-print(type(y))
+print(type(y)) 

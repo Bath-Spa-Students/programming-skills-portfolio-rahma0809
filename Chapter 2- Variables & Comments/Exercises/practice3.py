@@ -5,6 +5,6 @@ b=input('Enter your age:')
 c=input('Enter your weight:')
 print(str(a))
 print(int(b))
-print(float(c))
+print(float(c)) 
 
 
